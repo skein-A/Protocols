@@ -10,8 +10,9 @@
 + 第9章 HTTPS性能和安全
 + 第10章 HTTPS网站实践
 
-## 为什么选择本书
-+ 
+## 为什么要掌握HTTPS
++ 互联网安全是非常重要的领域，而安全背后的核心就是密码学算法。
+TLS/SSL 组合了大部分密码学算法，掌握了 TLS/SSL，在一定程度上等同于理解了密码学。
 
 ## 适合阅读本书的人群
 + Web开发者，包括前、后端开发人员
@@ -25,3 +26,9 @@
 + OpenSSL
 + TLS/SSL
 + HTTPS
+
+## 示例
+本书用到了很多示例，主要包含PHP代码片段、Nginx服务器配置、OpenSSL命令行、Wireshark pcap文件。  
+所有示例都存放在Github上（https://github.com/ywdblog/httpsbook）。
+
+## 反馈
