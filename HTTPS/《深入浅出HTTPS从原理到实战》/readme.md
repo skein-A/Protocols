@@ -32,3 +32,10 @@ TLS/SSL 组合了大部分密码学算法，掌握了 TLS/SSL，在一定程度�
 所有示例都存放在Github上（https://github.com/ywdblog/httpsbook）。
 
 ## 反馈
+如果读者在阅读过程中发现任何错误，都可以去 https://github.com/ywdblog/httpsbook 提交 Issue。  
+同时，如果有好的建议或者问题，也可以直接提交 Issue 或者发送邮件至 ywblog@outlook.com。  
+本书所有勘误修正全部放在 https://book.simplehttps.com/errata.md (无法访问）
+
+## 读者服务
+http://www.broadview.com.cn/34178
+
